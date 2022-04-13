@@ -1,4 +1,4 @@
-# :exclamation:# Final-Project :exclamation:
+# Final-Project - Stock Pice Prediction Model Using Deep Learning Neural Networks
 
 ## Overview 
 Our team decided on April 4 to develop a stock prediction model. We found a rudimentary model that we are seeking to improve. The current model using historical daily price data for publicly traded companies.
